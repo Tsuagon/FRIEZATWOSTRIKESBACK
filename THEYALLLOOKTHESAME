@@ -1,9 +1,10 @@
 loadstring(game:GetObjects("rbxassetid://5425999987")[1].Source)() -- Load Library
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuagon/friez/main/a"))() -- Frieza Avatar Loader
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 warn("Netless Activated!")
+
+wait(0.4)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuagon/friez/main/a"))() -- Frieza Avatar Loader
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
