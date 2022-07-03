@@ -1,6 +1,6 @@
 loadstring(game:GetObjects("rbxassetid://10028649882")[1].Source)() -- Load Library (Back-up version)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuagon/freezy-wheezy/main/FREEZYPOP"))() -- Frieza Avatar Changer
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuagon/friez/main/a"))() -- Frieza Avatar Changer
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuagon/pleasedontgodown/main/BLOKASHTA"))() -- Just incase the reanimation script goes down
 
